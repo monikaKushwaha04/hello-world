@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+Hello Team!
+Monika here, a simple human being. 
